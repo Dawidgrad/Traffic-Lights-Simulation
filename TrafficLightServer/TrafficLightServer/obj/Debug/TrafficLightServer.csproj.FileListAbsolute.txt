@@ -1,0 +1,85 @@
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe.config
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.pdb
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csprojResolveAssemblyReference.cache
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.Properties.Resources.resources
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.GenerateResource.Cache
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.exe
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.pdb
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.FormServer.resources
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe.config
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.exe
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.pdb
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.pdb
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csprojResolveAssemblyReference.cache
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.FormServer.resources
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.Properties.Resources.resources
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.GenerateResource.Cache
+C:\Users\crobinson5\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe.config
+C:\Users\crobinson5\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.exe
+C:\Users\crobinson5\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.pdb
+C:\Users\crobinson5\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe
+C:\Users\crobinson5\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.pdb
+C:\Users\crobinson5\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csprojResolveAssemblyReference.cache
+C:\Users\crobinson5\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.FormServer.resources
+C:\Users\crobinson5\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.Properties.Resources.resources
+C:\Users\crobinson5\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.GenerateResource.Cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe.config
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.pdb
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.FormServer.resources
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.Properties.Resources.resources
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.GenerateResource.cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.exe
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.pdb
+C:\Users\Davio\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe.config
+C:\Users\Davio\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe
+C:\Users\Davio\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.pdb
+C:\Users\Davio\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csprojResolveAssemblyReference.cache
+C:\Users\Davio\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.FormServer.resources
+C:\Users\Davio\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.Properties.Resources.resources
+C:\Users\Davio\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.GenerateResource.cache
+C:\Users\Davio\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.CoreCompileInputs.cache
+C:\Users\Davio\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.exe
+C:\Users\Davio\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.pdb
+C:\Users\Cody\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe.config
+C:\Users\Cody\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe
+C:\Users\Cody\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.pdb
+C:\Users\Cody\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.FormServer.resources
+C:\Users\Cody\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.Properties.Resources.resources
+C:\Users\Cody\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.GenerateResource.cache
+C:\Users\Cody\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.exe
+C:\Users\Cody\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.pdb
+C:\Users\dmgrad\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe.config
+C:\Users\dmgrad\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.exe
+C:\Users\dmgrad\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.pdb
+C:\Users\dmgrad\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe
+C:\Users\dmgrad\Desktop\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.pdb
+C:\Users\dmgrad\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csprojResolveAssemblyReference.cache
+C:\Users\dmgrad\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.FormServer.resources
+C:\Users\dmgrad\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.Properties.Resources.resources
+C:\Users\dmgrad\Desktop\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.GenerateResource.Cache
+D:\Today 4th May\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe.config
+D:\Today 4th May\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.exe
+D:\Today 4th May\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.pdb
+D:\Today 4th May\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe
+D:\Today 4th May\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.pdb
+D:\Today 4th May\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csprojResolveAssemblyReference.cache
+D:\Today 4th May\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.FormServer.resources
+D:\Today 4th May\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.Properties.Resources.resources
+D:\Today 4th May\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.GenerateResource.Cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\Cody's Changes\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe.config
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\Cody's Changes\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.exe
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\Cody's Changes\TrafficLightServer\TrafficLightServer\bin\Debug\TrafficLightServer.pdb
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\Cody's Changes\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\Cody's Changes\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.FormServer.resources
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\Cody's Changes\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.Properties.Resources.resources
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\Cody's Changes\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.GenerateResource.cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\Cody's Changes\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\Cody's Changes\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.exe
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\Cody's Changes\TrafficLightServer\TrafficLightServer\obj\Debug\TrafficLightServer.pdb

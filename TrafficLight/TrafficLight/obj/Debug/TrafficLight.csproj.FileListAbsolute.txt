@@ -1,0 +1,92 @@
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+D:\Nigel\Coarse Stuff\COM105\C# Stuff\Sockets\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\dmgrad\Desktop\Traffic Lights (Coursework)\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\dmgrad\Desktop\Traffic Lights (Coursework)\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\dmgrad\Desktop\Traffic Lights (Coursework)\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\dmgrad\Desktop\Traffic Lights (Coursework)\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\dmgrad\Desktop\Traffic Lights (Coursework)\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\dmgrad\Desktop\Traffic Lights (Coursework)\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\dmgrad\Desktop\Traffic Lights (Coursework)\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\dmgrad\Desktop\Traffic Lights (Coursework)\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\dmgrad\Desktop\Traffic Lights (Coursework)\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\Cody\Documents\OneDrive - University of Plymouth\University Stuff\NET 107\NET 107 Coursework\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\dmgrad\Desktop\OneDrive_2018-04-17\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\dmgrad\Desktop\OneDrive_2018-04-17\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\dmgrad\Desktop\OneDrive_2018-04-17\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\dmgrad\Desktop\OneDrive_2018-04-17\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\dmgrad\Desktop\OneDrive_2018-04-17\Traffic Lights\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\dmgrad\Desktop\OneDrive_2018-04-17\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\dmgrad\Desktop\OneDrive_2018-04-17\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\dmgrad\Desktop\OneDrive_2018-04-17\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\dmgrad\Desktop\OneDrive_2018-04-17\Traffic Lights\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\dmgrad\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\crobinson5\Desktop\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\crobinson5\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\crobinson5\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\crobinson5\Desktop\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\crobinson5\Desktop\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\crobinson5\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\crobinson5\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\crobinson5\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\crobinson5\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+D:\in here\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+D:\in here\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+D:\in here\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+D:\in here\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+D:\in here\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+D:\in here\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+D:\in here\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+D:\in here\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+D:\in here\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\Davio\Desktop\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\Davio\Desktop\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\Davio\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\Davio\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.FormTrafficLight.resources
+C:\Users\Davio\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\Davio\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+C:\Users\Davio\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Davio\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\Davio\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\Davio\Desktop\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
